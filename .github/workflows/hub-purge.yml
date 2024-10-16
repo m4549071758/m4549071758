@@ -1,1 +1,8 @@
-- uses: koki-develop/hub-purge-action@v1
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+jobs:
+  purge:
+    steps:
+      - uses: koki-develop/hub-purge-action@v1
