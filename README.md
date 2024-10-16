@@ -15,6 +15,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Stats
-[](https://github-readme-stats.vercel.app/api/top-langs/?username=m4549071758&layout=compact)]
-[](https://github-readme-stats.vercel.app/api?username=m4549071758)]
 
