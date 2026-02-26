@@ -1,7 +1,3 @@
-- pythonちょっとできる
-- サーバー・インフラちょっとできる
-- Alpine.js完全に理解した
-
 ## Qiita
 
 https://qiita.com/katori_m
